@@ -203,7 +203,7 @@ If you profit from it, profit in a way your family would be proud of.
 | Service daemons | 8 |
 | Bus format | JSONL (append-only) |
 | Est. Daily compute cost | $0.03 – $0.12 |
-| Repository | github.com/ (FINAL LINK) |
+| Repository | github.com/Cortes-Madrid/the-family-protocol |
 
 ---
 
