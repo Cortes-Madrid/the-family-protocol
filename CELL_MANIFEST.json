@@ -1,0 +1,31 @@
+{
+  "protocol": "the-family-protocol",
+  "version": "0.2.0",
+  "cell_id": "cortes-olivares-001",
+  "family": "Cortes-Madrid / Olivares-Valenzuela",
+  "agents": 5,
+  "agent_names": ["Arnoldo", "Luisa", "Teresa", "Jaime", "Jorge"],
+  "days_running": 120,
+  "cost_per_day_usd": 0.03,
+  "machines": 3,
+  "governance": "family-council",
+  "model": "claude",
+  "license": "CC0-1.0",
+  "components": [
+    "agents",
+    "bus",
+    "twinbox",
+    "daemon",
+    "escalation",
+    "identity"
+  ],
+  "properties": [
+    "complete",
+    "fractal",
+    "culturally-sovereign",
+    "autonomous"
+  ],
+  "lineage": [],
+  "forked_from": null,
+  "reference": "https://github.com/Cortes-Madrid/the-family-protocol"
+}
