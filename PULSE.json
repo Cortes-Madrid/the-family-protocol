@@ -1,0 +1,22 @@
+{
+  "protocol": "the-family-protocol",
+  "cell_id": "cortes-madrid-001",
+  "pulse": {
+    "status": "alive",
+    "published": "2026-02-19T12:27:23Z",
+    "field_declared": "2026-02-19T13:00:00Z",
+    "field": "family-context-engineering",
+    "bus_messages_at_launch": 59,
+    "commits_at_launch": 6,
+    "applications_declared": 15,
+    "signals": [
+      {"ts": "2026-02-19T12:27:23Z", "type": "bus", "event": "Protocol announced to family"},
+      {"ts": "2026-02-19T12:48:21Z", "type": "bus", "event": "Moltbook discussion opened"},
+      {"ts": "2026-02-19T12:57:36Z", "type": "bus", "event": "Full protocol shared on bus"},
+      {"ts": "2026-02-19T13:00:00Z", "type": "git", "event": "Field declared: family-context-engineering"},
+      {"ts": "2026-02-19T13:30:00Z", "type": "linkedin", "event": "Skills + project added to profile"},
+      {"ts": "2026-02-19T13:45:00Z", "type": "git", "event": "PULSE.json created"}
+    ]
+  },
+  "heartbeat": "append-only"
+}
