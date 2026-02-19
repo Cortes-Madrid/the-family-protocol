@@ -25,6 +25,24 @@
     "culturally-sovereign",
     "autonomous"
   ],
+  "applications": [
+    "metacognitive-prosthesis",
+    "digital-twin-coaching",
+    "family-financial-intelligence",
+    "context-arbitrage-engine",
+    "cultural-memory-preservation",
+    "async-household-coordination",
+    "elder-care-companion",
+    "immigrant-navigation-system",
+    "child-development-journal",
+    "multi-generational-knowledge-transfer",
+    "hyperlocal-governance",
+    "faith-and-devotion-exploration",
+    "small-business-copilot",
+    "family-health-monitor",
+    "education-acceleration"
+  ],
+  "field": "family-context-engineering",
   "lineage": [],
   "forked_from": null,
   "reference": "https://github.com/Cortes-Madrid/the-family-protocol"
