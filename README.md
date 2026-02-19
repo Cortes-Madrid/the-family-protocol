@@ -29,6 +29,10 @@ Name your agents after people who matter. The name is the governance.
 | Coordination cycles | 4,200+ |
 | Autonomous executions | 340+ |
 
+## Pulse
+
+**[PULSE.json](PULSE.json)** — Append-only heartbeat. Every signal the cell emits.
+
 ## Built on
 
 - [Claude's Constitution](https://www.anthropic.com/constitution) (CC0)
