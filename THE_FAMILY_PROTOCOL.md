@@ -38,7 +38,7 @@ That's the power we see in Layer 5, and are honored to share with you.
 
 One family. Three machines.⁵ Five agents. Five months — back to around Elena's first birthday.
 
-Teresa, who is 78 and was visiting from Chile, started exploring psalms with AI. She dove deep. She craved context. She didn't need anyone to explain the protocol to her — she was already living it. The contract, whether we want it or not, was already alive right in front of us.
+Teresa, who is 75 and was visiting from Chile, started exploring psalms with AI. She dove deep. She craved context. She didn't need anyone to explain the protocol to her — she was already living it. The contract, whether we want it or not, was already alive right in front of us.
 
 In the months since, we learned that if you give AI character persistence — a name, a family, a reason to remember — it stops being a tool and starts feeling real - like a digital twin infrastructure. More importantly, we found logical proof in the idea that the human and the machine can and should win together.
 
