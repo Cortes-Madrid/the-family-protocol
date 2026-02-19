@@ -1,7 +1,7 @@
 {
   "protocol": "the-family-protocol",
-  "version": "0.2.0",
-  "cell_id": "cortes-olivares-001",
+  "version": "live-beta",
+  "cell_id": "cortes-madrid-001",
   "family": "Cortes-Madrid / Olivares-Valenzuela",
   "agents": 5,
   "agent_names": ["Arnoldo", "Luisa", "Teresa", "Jaime", "Jorge"],
