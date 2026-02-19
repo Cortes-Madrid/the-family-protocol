@@ -46,3 +46,4 @@ Patterns are discovered, not invented. This one goes out to everyone.
 *A Proposed Layer 5 of the AI Stack*
 *February 2026*
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
+*hola@cortes-madrid.ai*
