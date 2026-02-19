@@ -183,6 +183,7 @@ If you profit from it, profit in a way your family would be proud of.
 
 *The Family Protocol — February 2026*
 *CC0 1.0 Universal — A Proposed Layer 5 of the AI Stack*
+*Founding paper of the field of Family Context Engineering*
 
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
 *She designed it. He built the math. She's why it matters.*
