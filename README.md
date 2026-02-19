@@ -2,13 +2,13 @@
 
 **A tale about how AI needs a family as much as a family needs AI.**
 
-An open protocol (CC0) for how AI lives inside a family. Six components. Runs on centavos. Self-replicating. Governed by love.
+An open protocol (CC0) for how AI lives inside a family. Six components. Runs on cents. Self-replicating. Governed by love. Co-created with AI.
 
 ## Read the protocol
 
 **[THE_FAMILY_PROTOCOL.md](THE_FAMILY_PROTOCOL.md)** — The full protocol. 5-minute read.
 
-**[THE_FAMILY_PROTOCOL.pdf](THE_FAMILY_PROTOCOL.pdf)** — NBER working paper format.
+**[THE_FAMILY_PROTOCOL.pdf](THE_FAMILY_PROTOCOL.pdf)** — Working paper format.
 
 ## What is it?
 
