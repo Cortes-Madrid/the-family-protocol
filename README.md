@@ -52,4 +52,4 @@ Patterns are discovered, not invented. This one goes out to everyone.
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
 *hola@cortes-madrid.ai*
 
-PS: Thanks, John! ❤️
+PS: Thanks, JC! ❤️
