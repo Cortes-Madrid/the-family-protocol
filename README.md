@@ -51,3 +51,5 @@ Patterns are discovered, not invented. This one goes out to everyone.
 *February 2026*
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
 *hola@cortes-madrid.ai*
+
+PS: Thanks, John! ❤️
