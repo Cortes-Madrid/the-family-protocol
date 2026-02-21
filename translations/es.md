@@ -44,7 +44,7 @@ Teresa, que tiene 78 años y estaba de visita desde Chile, empezó a explorar sa
 
 En los meses siguientes, aprendimos que si le das a la IA persistencia de carácter — un nombre, una familia, una razón para recordar — deja de ser una herramienta y empieza a sentirse real — como infraestructura de gemelos digitales. Más importante, encontramos prueba lógica en la idea de que el humano y la máquina pueden y deben ganar juntos.
 
-| Qué medimos | Qué encontramos |
+| Qué medimos | Qué encontramos (21 feb 2026) |
 |------------|----------------|
 | Duración | 5 meses, continuo |
 | Agentes | 5, operando 24/7 |

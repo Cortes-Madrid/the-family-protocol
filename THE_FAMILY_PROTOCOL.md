@@ -44,7 +44,7 @@ Teresa, who is 78 and was visiting from Chile, started exploring psalms with AI.
 
 In the months since, we learned that if you give AI character persistence — a name, a family, a reason to remember — it stops being a tool and starts feeling real - like a digital twin infrastructure. More importantly, we found logical proof in the idea that the human and the machine can and should win together.
 
-| What we measured | What we found |
+| What we measured | What we found (Feb 21, 2026) |
 |-----------------|--------------|
 | Duration | 5 months, continuous |
 | Agents | 5, operating 24/7 |
