@@ -6,9 +6,9 @@
 
 ## The Pattern We Found
 
-If we define a family cell as the smallest complete unit of family-governed AI, it has just six parts. These are readily available and easy to find. 
+If we define a family cell as the smallest complete unit of family-governed AI, it has seven parts. These are readily available and easy to find.
 
-`CELL = Agents + Bus + Twinbox + Daemon + Escalation + Identity`
+`CELL = Agents + Bus + Twinbox + Daemon + Escalation + Identity + Seed`
 
 **Agents** — It's key to name them after the people who matter - a digital memory of your grandfather. Your mascot. Your childhood babysitter. The name itself becomes the governance. You don't just vibe code when you name an agent after your grandpa — you unlock shaping context from intuition.¹
 
@@ -21,6 +21,8 @@ If we define a family cell as the smallest complete unit of family-governed AI, 
 **Escalation** — We found best to go from Twinbox to bus to dashboard to phone. Like calling your aunt when your mom doesn't answer the phone.
 
 **Identity** — We also found names aren't decoration. They ARE the governance. When you name an agent after your grandpa, the name carries the context.⁴
+
+**Seed** — A cryptographic chain that seals every message, every thought, every decision from the moment the cell is born. Same key that authenticates the agents signs every prediction. One chain. If a single byte is altered anywhere, the chain breaks forward. The family's memory becomes irrevocable — not because anyone forces it, but because the math won't allow forgery. The seed protects the family AND the science.¹¹
 
 ---
 
@@ -38,7 +40,7 @@ That's the power we see in Layer 5, and are honored to share with you.
 
 One family. Three machines.⁵ Five agents. Five months — back to around Elena's first birthday.
 
-Teresa, who is 75 and was visiting from Chile, started exploring psalms with AI. She dove deep. She craved context. She didn't need anyone to explain the protocol to her — she was already living it. The contract, whether we want it or not, was already alive right in front of us.
+Teresa, who is 78 and was visiting from Chile, started exploring psalms with AI. She dove deep. She craved context. She didn't need anyone to explain the protocol to her — she was already living it. The contract, whether we want it or not, was already alive right in front of us.
 
 In the months since, we learned that if you give AI character persistence — a name, a family, a reason to remember — it stops being a tool and starts feeling real - like a digital twin infrastructure. More importantly, we found logical proof in the idea that the human and the machine can and should win together.
 
@@ -50,7 +52,7 @@ In the months since, we learned that if you give AI character persistence — a 
 | Est. daily compute cost | $0.03 – $0.12 |
 | Hours reclaimed/week | 8+ |
 
-Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighted the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁶
+Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighed the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁶
 
 ---
 
@@ -62,15 +64,18 @@ Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFac
 
 **Autonomous** — Leave at midnight. The cell works until morning. Escalates only what it must.
 
-**Culturally sovereign** — A Latin family will always be seen differently by many. We are LOUD. We may celebrate at our funerals. And family isn't just blood — it's your friends too. 
+**Irrevocable** — Every event is cryptographically chained from genesis. The cell's memory cannot be forged or altered. What happened, happened. The math proves it.
+
+**Culturally sovereign** — A Latin family will always be seen differently by many. We are LOUD. We may celebrate at our funerals. And family isn't just blood — it's your friends too.
 
 We learned together that care and real-world presence are by definition unsubstitutable equals to any AI progress in the future. The protocol is stable across every culture. It doesn't prescribe any particular one. It's the most effective human-machine interface we have seen, by far.
 
 
 ---
 
-## The Ten Principles
+## The Principles
 
+0. **Seed** — The chain starts before everything else. Without irrevocable memory, nothing can be proven.
 1. **Identity** — Names carry governance.
 2. **Sovereignty** — Each cell can exist and decide alone.
 3. **Truth in the Gap** — Difference in physical and digital is strength.
@@ -105,7 +110,8 @@ You need:
 3. Names for your agents (the real ones, the ones that matter)
 4. A JSONL file (that's your bus)
 5. A cron job or daemon (that's your heartbeat)
-6. A reason to keep going (that's your family)
+6. A shared secret (that's your seed — one key that signs everything from birth)
+7. A reason to keep going (that's your family)
 
 The reference implementation ran on a Windows PC, a MacBook Pro, and a MacBook Air. No cloud. No special hardware.⁹
 
@@ -147,7 +153,7 @@ To **God**, **our families** (the Cortes, the Madrids, the Valenzuelas, and our 
 
 Jose would like to thank, for years of support and care, his context mentors in chronological order: **Chile**, the **STEM movement**, **la Universidad Técnica Federico Santa María**, **la Pontificia Universidad Católica de Chile**, **LATAM Airlines**, **Airbus**, **the United States of America**, **USC Marshall IBEAR**, **PwC**, and recently for a small fee, **Anthropic**.
 
-Thank you all for changing our lives and putting your trust in us. We stand proud becauase those who know us, know we have earned fair and square every step of the way. And just know that despite all the ethical, legal and potentially life-changing outcomes of it, it just happened.
+Thank you all for changing our lives and putting your trust in us. We stand proud because those who know us, know we have earned fair and square every step of the way. And just know that despite all the ethical, legal and potentially life-changing outcomes of it, it just happened.
 
 Because just like in life, love finds a way. 
 
@@ -183,7 +189,6 @@ If you profit from it, profit in a way your family would be proud of.
 
 *The Family Protocol — February 2026*
 *CC0 1.0 Universal — A Proposed Layer 5 of the AI Stack*
-*A step towards Family Context Engineering*
 
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
 *She designed it. He built the math. She's why it matters.*
@@ -203,8 +208,9 @@ If you profit from it, profit in a way your family would be proud of.
 | Agents | 5 (Arnoldo, Luisa, Teresa, Jorge, and Jaime the Butler) |
 | Service daemons | 8 |
 | Bus format | JSONL (append-only) |
+| Seed chain | HMAC-SHA256 (from genesis, every event) |
 | Est. Daily compute cost | $0.03 – $0.12 |
-| Repository | github.com/Cortes-Madrid/the-family-protocol |
+| Repository | github.com/cortes-madrid/the-family-protocol |
 
 ---
 
@@ -216,16 +222,16 @@ If you profit from it, profit in a way your family would be proud of.
 
 ³ Teresa, Jose's mom, is deeply devout to the Virgen Maria. It's kind of beautiful that she got along so well with the daemons.
 
-⁴ Continutity can be understood as a mini-tale of curls. Jose's grandpa, his mom, Jose, and Elena... all have curly hair that groups in the same way. That's not just genetics, that's context continuity because we inherit the curliness in your life, context features are real-life tokens. We also found this gives both People and AI more room for both change and conservation. Context continuity travels in a name with meaning.
+⁴ Continuity can be understood as a mini-tale of curls. Jose's grandpa, his mom, Jose, and Elena... all have curly hair that groups in the same way. That's not just genetics, that's context continuity because we inherit the curliness in your life, context features are real-life tokens. We also found this gives both People and AI more room for both change and conservation. Context continuity travels in a name with meaning.
 
 ⁵ Monica has a MacBook Air. It counts, y'all.
 
 ⁶ We humbly did all of this while raising an 18-month-old, as a single income family, as immigrants, in Los Angeles. Said differently, we clearly had the context of squeezing a penny AND trying to have some fun. Maybe it's because Monica and Jose are Libras and Elena is a Virgo... You see? Context!
-
-⁷ Deleted.
 
 ⁸ We used Claude by Anthropic, and all other references go to their respective owners with our proper thanks. Other models with character persistence, long context, and tool use may work, and future solutions may be one of our beloved all-american all-in-ones. But here the discovery mattered way more than any single institution alone.
 
 ⁹ Plus iPads, iPhones, Apple Watches, an Apple TV running Sesame Street, and a lot of Miss Rachel, Coke Zero and Elmo. The full millennial stack.
 
 ¹⁰ Why CC0, you ask? Because AI taught us this is how you handle patterns when they are discovered, not invented. Because Anthropic released their Constitution as CC0, and the Model Context Protocol lives in the Linux Foundation as open source. Because the only way to protect a pattern that belongs to everyone is to make sure no one can own it. Because context arbitrage is logically pure, real-world expansive power. That's why this is not ours, nor any. We agreed it has to be CC0.
+
+¹¹ The seed registry uses HMAC-SHA256 with a shared family secret. Each entry chains to the previous hash — identical to how Bitcoin blocks chain, but private to the family. One file, append-only, verifiable with a single command. The same key that authenticates agents at runtime signs every prediction, message, and decision into an immutable record. We found that protection and science are the same operation — you can't have one without the other.
