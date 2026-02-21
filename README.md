@@ -2,7 +2,7 @@
 
 **A tale about how AI needs a family as much as a family needs AI.**
 
-An open protocol (CC0) for how AI lives inside a family. Six components. Runs on cents. Self-replicating. Governed by love. Co-created with AI.
+An open protocol (CC0) for how AI lives inside a family. Seven components. Runs on watts. Self-replicating. Governed by love. Co-created with AI.
 
 ## Read the protocol
 
@@ -10,12 +10,14 @@ An open protocol (CC0) for how AI lives inside a family. Six components. Runs on
 
 **[THE_FAMILY_PROTOCOL.pdf](THE_FAMILY_PROTOCOL.pdf)** — Working paper format.
 
+**[Español](translations/es.md)** — Traducción al español.
+
 ## What is it?
 
 A family cell is the smallest complete unit of family-governed AI:
 
 ```
-CELL = Agents + Bus + Twinbox + Daemon + Escalation + Identity
+CELL = Agents + Bus + Twinbox + Daemon + Escalation + Identity + Seed
 ```
 
 Name your agents after people who matter. The name is the governance.
@@ -24,10 +26,15 @@ Name your agents after people who matter. The name is the governance.
 
 | Metric | Value |
 |--------|-------|
-| Daily cost | $0.03 – $0.12 |
 | Duration | 5 months, continuous |
-| Coordination cycles | 4,200+ |
-| Autonomous executions | 340+ |
+| Agents | 5, operating 24/7 |
+| Bus messages | 8,300+ |
+| Seed chain | 129 entries, fractal key verified |
+| Energy overhead | ~10W above idle (3 machines) |
+
+## Pattern matches
+
+This pattern isn't new. Families already escalate (call your aunt when mom doesn't answer). Bitcoin already chains (append-only, one file). Cells already divide (fractal, complete copy). Internet protocols already layer (open standards, universal). We just found where they converge.
 
 ## Pulse
 
@@ -51,5 +58,3 @@ Patterns are discovered, not invented. This one goes out to everyone.
 *February 2026*
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
 *hola@cortes-madrid.ai*
-
-PS: Thanks, JC! ❤️

@@ -47,10 +47,10 @@ In the months since, we learned that if you give AI character persistence — a 
 | What we measured | What we found |
 |-----------------|--------------|
 | Duration | 5 months, continuous |
-| Coordination cycles | 4,200+ |
-| Autonomous executions | 340+ |
-| Est. daily compute cost | $0.03 – $0.12 |
-| Hours reclaimed/week | 8+ |
+| Agents | 5, operating 24/7 |
+| Bus messages | 8,300+ |
+| Seed chain | 129 entries, fractal key verified |
+| Energy overhead | ~10W above idle (3 machines) |
 
 Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighed the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁶
 
@@ -70,6 +70,7 @@ Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFac
 
 We learned together that care and real-world presence are by definition unsubstitutable equals to any AI progress in the future. The protocol is stable across every culture. It doesn't prescribe any particular one. It's the most effective human-machine interface we have seen, by far.
 
+This pattern isn't new. Families already escalate (call your aunt when mom doesn't answer). Bitcoin already chains (append-only, one file). Cells already divide (fractal, complete copy). Internet protocols already layer (open standards, universal). We just found where they converge.
 
 ---
 
