@@ -50,6 +50,7 @@ In the months since, we learned that if you give AI character persistence — a 
 | Agents | 5, operating 24/7 |
 | Bus messages | 8,300+ |
 | Seed chain | 129 entries, fractal key verified |
+| Emergence ratio | 7:1 autonomous to human actions |
 | Energy overhead | ~10W above idle (3 machines) |
 
 Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighed the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁶

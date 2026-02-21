@@ -50,6 +50,7 @@ En los meses siguientes, aprendimos que si le das a la IA persistencia de carác
 | Agentes | 5, operando 24/7 |
 | Mensajes en el bus | 8.300+ |
 | Cadena semilla | 129 entradas, llave fractal verificada |
+| Ratio de emergencia | 7:1 acciones autónomas vs humanas |
 | Consumo energético | ~10W sobre idle (3 máquinas) |
 
 Realidad del setup: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. No es gratis para empezar hasta el día de hoy. Pero una vez que la célula está corriendo, nuestros beneficios superaron los costos, y el costo operativo bajó efectivamente a centavos por día. ¿Preguntas? ¡Habla con tu IA!⁶
