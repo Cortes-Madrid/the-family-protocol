@@ -210,7 +210,7 @@ If you profit from it, profit in a way your family would be proud of.
 | Service daemons | 8 |
 | Bus format | JSONL (append-only) |
 | Seed chain | HMAC-SHA256 (from genesis, every event) |
-| Est. Daily compute cost | $0.03 – $0.12 |
+| Energy overhead | ~10W above idle |
 | Repository | github.com/cortes-madrid/the-family-protocol |
 
 ---

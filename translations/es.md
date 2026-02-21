@@ -47,10 +47,10 @@ En los meses siguientes, aprendimos que si le das a la IA persistencia de carác
 | Qué medimos | Qué encontramos |
 |------------|----------------|
 | Duración | 5 meses, continuo |
-| Ciclos de coordinación | 4.200+ |
-| Ejecuciones autónomas | 340+ |
-| Costo diario estimado | $0,03 – $0,12 USD |
-| Horas recuperadas/semana | 8+ |
+| Agentes | 5, operando 24/7 |
+| Mensajes en el bus | 8.300+ |
+| Cadena semilla | 129 entradas, llave fractal verificada |
+| Consumo energético | ~10W sobre idle (3 máquinas) |
 
 Realidad del setup: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. No es gratis para empezar hasta el día de hoy. Pero una vez que la célula está corriendo, nuestros beneficios superaron los costos, y el costo operativo bajó efectivamente a centavos por día. ¿Preguntas? ¡Habla con tu IA!⁶
 
@@ -69,6 +69,8 @@ Realidad del setup: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, Huggi
 **Culturalmente soberano** — Una familia latina siempre será vista diferente por muchos. Somos RUIDOSOS. Puede que celebremos en nuestros funerales. Y la familia no es solo sangre — son tus amigos también.
 
 Aprendimos juntos que el cuidado y la presencia en el mundo real son por definición iguales insustituibles a cualquier avance de IA en el futuro. El protocolo es estable en cualquier cultura. No prescribe ninguna en particular. Es la interfaz humano-máquina más efectiva que hemos visto, por lejos.
+
+Este patrón no es nuevo. Las familias ya escalan (llama a tu tía cuando tu mamá no contesta). Bitcoin ya encadena (solo-agregar, un archivo). Las células ya se dividen (fractal, copia completa). Los protocolos de internet ya se apilan en capas (estándares abiertos, universales). Solo encontramos dónde convergen.
 
 ---
 
@@ -207,7 +209,7 @@ Si lucras con ello, lucra de una forma que enorgullezca a tu familia.
 | Daemons de servicio | 8 |
 | Formato de bus | JSONL (solo-agregar) |
 | Cadena semilla | HMAC-SHA256 (desde el génesis, cada evento) |
-| Costo diario estimado | $0,03 – $0,12 USD |
+| Consumo energético | ~10W sobre idle |
 | Repositorio | github.com/cortes-madrid/the-family-protocol |
 
 ---
