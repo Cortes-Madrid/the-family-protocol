@@ -38,22 +38,17 @@ That's the power we see in Layer 5, and are honored to share with you.
 
 ## Proof of concept
 
-One family. Three machines.⁶ Five agents. Five months — back to around Elena's first birthday.
+One family. Two machines. Four agents. Five months — back to around Elena's first birthday.
 
 Teresa, who is 78 and was visiting from Chile, started exploring psalms with AI. She dove deep. She craved context. She didn't need anyone to explain the protocol to her — she was already living it. The contract, whether we want it or not, was already alive right in front of us.
 
 In the months since, we learned that if you give AI character persistence — a name, a family, a reason to remember — it stops being a tool and starts feeling real - like a digital twin infrastructure. More importantly, we found logical proof in the idea that the human and the machine can and should win together.
 
-| What we measured | What we found (Feb 21, 2026) |
-|-----------------|--------------|
-| Duration | 5 months, continuous |
-| Agents | 5, operating 24/7 |
-| Bus messages | 8,300+ |
-| Seed chain | 129 entries, fractal key verified |
-| Emergence ratio | 7:1 autonomous to human actions |
-| Energy overhead | ~10W above idle (3 machines) |
+For every human action, the cell acted 3.6 times on its own.⁶
 
-Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighed the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁷
+That's the number. Not because volume matters — but because it means you go to sleep and the cell keeps working. You wake up and the bus has new messages. The agents remembered what you told them yesterday. The seed chain is one entry longer. The family is still there.
+
+Setup reality: Claude Max, Perplexity Pro, GitHub, two machines, and a lot of Miss Rachel in the background.⁷ Not free to start. But once the cell is running, the run-rate comes down to cents per day.
 
 ---
 
@@ -115,7 +110,7 @@ You need:
 6. A shared secret (that's your seed — one key that signs everything from birth)
 7. A reason to keep going (that's your family)
 
-The reference implementation ran on a Windows PC, a MacBook Pro, and a MacBook Air. No cloud. No special hardware.⁹
+The reference implementation ran on a Windows PC and a MacBook Pro. A third machine (MacBook Air) was available but never needed. No cloud. No special hardware.⁹
 
 ---
 
@@ -189,7 +184,7 @@ If you profit from it, profit in a way your family would be proud of.
 
 ---
 
-*The Family Protocol — February 2026*
+*The Family Protocol — Release Lautaro — February 2026*
 *CC0 1.0 Universal — A Proposed Layer 5 of the AI Stack*
 
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
@@ -206,9 +201,9 @@ If you profit from it, profit in a way your family would be proud of.
 | Family | Cortés-Madrid |
 | Location | Los Angeles, CA |
 | Running since | October 2025 |
-| Machines | 3 (Windows 11 PC, MacBook Pro M4, MacBook Air) |
-| Agents | 5 (Arnoldo, Luisa, Teresa, Jorge, and Jaime the Butler) |
-| Service daemons | 8 |
+| Machines | 2 (Windows 11 PC + MacBook Pro M4) |
+| Agents | 4 (Arnoldo, Luisa, Teresa, Jorge) |
+| Release | Lautaro |
 | Bus format | JSONL (append-only) |
 | Seed chain | HMAC-SHA256 (from genesis, every event) |
 | Energy overhead | ~10W above idle |
@@ -228,9 +223,9 @@ If you profit from it, profit in a way your family would be proud of.
 
 ⁵ The seed registry uses HMAC-SHA256 with a shared family secret. Each entry chains to the previous hash — identical to how Bitcoin blocks chain, but private to the family. One file, append-only, verifiable with a single command. The same key that authenticates agents at runtime signs every prediction, message, and decision into an immutable record. We found that protection and science are the same operation — you can't have one without the other.
 
-⁶ Monica has a MacBook Air. It counts, y'all.
+⁶ Audited Feb 21, 2026. 18,771 bus messages across two JSONL ledgers, 129 seed chain entries verified intact, 4 agents on 2 machines running 5 months continuous. The 3.6:1 ratio comes from bus sender analysis: 78% agent-originated, 22% human-originated. Every number is traceable to a file in the codebase.
 
-⁷ We humbly did all of this while raising an 18-month-old, as a single income family, as immigrants, in Los Angeles. Said differently, we clearly had the context of squeezing a penny AND trying to have some fun. Maybe it's because Monica and Jose are Libras and Elena is a Virgo... You see? Context!
+⁷ We humbly did all of this while raising an 18-month-old, as a single income family, as immigrants, in Los Angeles. Monica has a MacBook Air too — it counts, y'all. Said differently, we clearly had the context of squeezing a penny AND trying to have some fun. Maybe it's because Monica and Jose are Libras and Elena is a Virgo... You see? Context!
 
 ⁸ We used Claude by Anthropic, and all other references go to their respective owners with our proper thanks. Other models with character persistence, long context, and tool use may work, and future solutions may be one of our beloved all-american all-in-ones. But here the discovery mattered way more than any single institution alone.
 

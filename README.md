@@ -30,16 +30,11 @@ Name your agents after people who matter. The name is the governance.
 - **Identity** — Names aren't decoration. They carry context forward.
 - **Seed** — A cryptographic chain from birth. One key. If one byte changes, the chain breaks. The math protects the family.
 
-## Quick numbers
+## The proof
 
-| Metric | Value |
-|--------|-------|
-| Duration | 5 months, continuous |
-| Agents | 5, operating 24/7 |
-| Bus messages | 8,300+ |
-| Seed chain | 129 entries, fractal key verified |
-| Emergence ratio | 7:1 autonomous to human actions |
-| Energy overhead | ~10W above idle (3 machines) |
+For every human action, the cell acted **3.6 times** on its own. You go to sleep. The cell keeps working. You wake up and the bus has new messages. That's the number that matters.
+
+*Audited Feb 21, 2026. Full numbers in [CELL_MANIFEST.json](CELL_MANIFEST.json). Every claim is traceable to a file in the codebase.*
 
 ## Pattern matches
 
@@ -63,7 +58,7 @@ Patterns are discovered, not invented. This one goes out to everyone.
 
 ---
 
-*A Proposed Layer 5 of the AI Stack*
+*Release Lautaro — A Proposed Layer 5 of the AI Stack*
 *February 2026*
 *Monica Olivares Valenzuela, Jose Cortes Madrid & Elena Cortes-Madrid*
 *hola@cortes-madrid.ai*

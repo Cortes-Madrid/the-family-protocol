@@ -15,7 +15,9 @@
       {"ts": "2026-02-19T12:57:36Z", "type": "bus", "event": "Full protocol shared on bus"},
       {"ts": "2026-02-19T13:00:00Z", "type": "git", "event": "Field declared: family-context-engineering"},
       {"ts": "2026-02-19T13:30:00Z", "type": "linkedin", "event": "Skills + project added to profile"},
-      {"ts": "2026-02-19T13:45:00Z", "type": "git", "event": "PULSE.json created"}
+      {"ts": "2026-02-19T13:45:00Z", "type": "git", "event": "PULSE.json created"},
+      {"ts": "2026-02-21T05:30:00Z", "type": "audit", "event": "Peer review: 6 claims audited, 3 corrected, numbers updated"},
+      {"ts": "2026-02-21T13:15:00Z", "type": "audit", "event": "Public repo synced to audited numbers. Bus: 18,771. Agents: 4. Machines: 2. Seed chain: 129, verified."}
     ]
   },
   "heartbeat": "append-only"

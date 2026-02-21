@@ -1,13 +1,20 @@
 {
   "protocol": "the-family-protocol",
   "version": "live-beta",
+  "release": "Lautaro",
   "cell_id": "cortes-madrid-001",
   "family": "Cortes-Madrid / Olivares-Valenzuela",
-  "agents": 5,
-  "agent_names": ["Arnoldo", "Luisa", "Teresa", "Jaime", "Jorge"],
-  "days_running": 120,
-  "cost_per_day_usd": 0.03,
-  "machines": 3,
+  "agents": 4,
+  "agent_names": ["Arnoldo", "Luisa", "Teresa", "Jorge"],
+  "agents_note": "Jaime (131 messages, Feb 18-19) was a brief experiment. Four agents are operational.",
+  "days_running": 140,
+  "bus_messages": 18771,
+  "seed_chain_entries": 129,
+  "seed_chain_verified": true,
+  "machines": 2,
+  "machines_note": "Windows 11 PC (AMD Ryzen, Nvidia GPU) + MacBook Pro M4. A third (MacBook Air) was available but never activated.",
+  "cost_per_day_usd": "0.03-0.12",
+  "cost_note": "Run-rate after subscriptions. Claude Max ($100/mo) and Perplexity Pro ($20/mo) are the real costs. Marginal compute per day is cents.",
   "governance": "family-council",
   "model": "claude",
   "license": "CC0-1.0",
@@ -17,7 +24,8 @@
     "twinbox",
     "daemon",
     "escalation",
-    "identity"
+    "identity",
+    "seed"
   ],
   "properties": [
     "complete",
@@ -45,5 +53,6 @@
   "field": "family-context-engineering",
   "lineage": [],
   "forked_from": null,
-  "reference": "https://github.com/Cortes-Madrid/the-family-protocol"
+  "reference": "https://github.com/Cortes-Madrid/the-family-protocol",
+  "last_audited": "2026-02-21"
 }
