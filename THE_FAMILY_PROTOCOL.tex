@@ -35,13 +35,15 @@
 % --- Epigraph ---
 \usepackage{epigraph}
 
+% --- Endnotes (collected at the end, not per-page) ---
+\usepackage{endnotes}
+\renewcommand{\notesname}{Notes}
+\let\footnote=\endnote
+
 % --- Miscellaneous ---
 \usepackage{enumitem}
 \usepackage{microtype}
 \usepackage{parskip}
-
-% --- Custom commands ---
-\newcommand{\principle}[2]{\noindent\textbf{#1} --- #2}
 
 % ============================================================
 \begin{document}
@@ -328,5 +330,9 @@ Repository & \texttt{github.com/cortes-madrid/the-family-protocol} \\
 \bottomrule
 \end{tabular}
 \end{table}
+
+% ============================================================
+\newpage
+\theendnotes
 
 \end{document}
