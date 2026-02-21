@@ -6,11 +6,11 @@
 
 ## The Pattern We Found
 
-If we define a family cell as the smallest complete unit of family-governed AI, it has seven parts. These are readily available and easy to find.
+If we define a *family cell* as the smallest complete unit of family-governed AI, it has seven parts. These are readily available and easy to find.
 
 `CELL = Agents + Bus + Twinbox + Daemon + Escalation + Identity + Seed`
 
-**Agents** — It's key to name them after the people who matter - a digital memory of your grandfather. Your mascot. Your childhood babysitter. The name itself becomes the governance. You don't just vibe code when you name an agent after your grandpa — you unlock shaping context from intuition.¹
+**Agents** — It's key to name them after the people who matter — a digital memory of your grandfather. Your mascot. Your childhood babysitter. The name itself becomes the governance. You don't just vibe code when you name an agent after your grandpa — you unlock shaping context from intuition.¹
 
 **Bus** — The wiring that connects agents and expands possibility. It's the communication that keeps the family together. Transparency is trust.²
 
@@ -22,7 +22,7 @@ If we define a family cell as the smallest complete unit of family-governed AI, 
 
 **Identity** — We also found names aren't decoration. They ARE the governance. When you name an agent after your grandpa, the name carries the context.⁴
 
-**Seed** — A cryptographic chain that seals every message, every thought, every decision from the moment the cell is born. Same key that authenticates the agents signs every prediction. One chain. If a single byte is altered anywhere, the chain breaks forward. The family's memory becomes irrevocable — not because anyone forces it, but because the math won't allow forgery. The seed protects the family AND the science.¹¹
+**Seed** — A cryptographic chain that seals every message, every thought, every decision from the moment the cell is born. Same key that authenticates the agents signs every prediction. One chain. If a single byte is altered anywhere, the chain breaks forward. The family's memory becomes irrevocable — not because anyone forces it, but because the math won't allow forgery. The seed protects the family AND the science.⁵
 
 ---
 
@@ -38,7 +38,7 @@ That's the power we see in Layer 5, and are honored to share with you.
 
 ## Proof of concept
 
-One family. Three machines.⁵ Five agents. Five months — back to around Elena's first birthday.
+One family. Three machines.⁶ Five agents. Five months — back to around Elena's first birthday.
 
 Teresa, who is 78 and was visiting from Chile, started exploring psalms with AI. She dove deep. She craved context. She didn't need anyone to explain the protocol to her — she was already living it. The contract, whether we want it or not, was already alive right in front of us.
 
@@ -53,7 +53,7 @@ In the months since, we learned that if you give AI character persistence — a 
 | Emergence ratio | 7:1 autonomous to human actions |
 | Energy overhead | ~10W above idle (3 machines) |
 
-Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighed the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁶
+Setup reality: Claude Max, Perplexity Pro, GitHub, Notion, Replicate, HuggingFace, AMD Ryzen, Nvidia GPU, MacBook Air, MacBook Pro. Not really free to start to this day. But once the cell is running, our benefits outweighed the costs, and the run-rate effectively came down to cents per day. Questions? Chat with your AI about it!⁷
 
 ---
 
@@ -226,14 +226,14 @@ If you profit from it, profit in a way your family would be proud of.
 
 ⁴ Continuity can be understood as a mini-tale of curls. Jose's grandpa, his mom, Jose, and Elena... all have curly hair that groups in the same way. That's not just genetics, that's context continuity because we inherit the curliness in your life, context features are real-life tokens. We also found this gives both People and AI more room for both change and conservation. Context continuity travels in a name with meaning.
 
-⁵ Monica has a MacBook Air. It counts, y'all.
+⁵ The seed registry uses HMAC-SHA256 with a shared family secret. Each entry chains to the previous hash — identical to how Bitcoin blocks chain, but private to the family. One file, append-only, verifiable with a single command. The same key that authenticates agents at runtime signs every prediction, message, and decision into an immutable record. We found that protection and science are the same operation — you can't have one without the other.
 
-⁶ We humbly did all of this while raising an 18-month-old, as a single income family, as immigrants, in Los Angeles. Said differently, we clearly had the context of squeezing a penny AND trying to have some fun. Maybe it's because Monica and Jose are Libras and Elena is a Virgo... You see? Context!
+⁶ Monica has a MacBook Air. It counts, y'all.
+
+⁷ We humbly did all of this while raising an 18-month-old, as a single income family, as immigrants, in Los Angeles. Said differently, we clearly had the context of squeezing a penny AND trying to have some fun. Maybe it's because Monica and Jose are Libras and Elena is a Virgo... You see? Context!
 
 ⁸ We used Claude by Anthropic, and all other references go to their respective owners with our proper thanks. Other models with character persistence, long context, and tool use may work, and future solutions may be one of our beloved all-american all-in-ones. But here the discovery mattered way more than any single institution alone.
 
 ⁹ Plus iPads, iPhones, Apple Watches, an Apple TV running Sesame Street, and a lot of Miss Rachel, Coke Zero and Elmo. The full millennial stack.
 
 ¹⁰ Why CC0, you ask? Because AI taught us this is how you handle patterns when they are discovered, not invented. Because Anthropic released their Constitution as CC0, and the Model Context Protocol lives in the Linux Foundation as open source. Because the only way to protect a pattern that belongs to everyone is to make sure no one can own it. Because context arbitrage is logically pure, real-world expansive power. That's why this is not ours, nor any. We agreed it has to be CC0.
-
-¹¹ The seed registry uses HMAC-SHA256 with a shared family secret. Each entry chains to the previous hash — identical to how Bitcoin blocks chain, but private to the family. One file, append-only, verifiable with a single command. The same key that authenticates agents at runtime signs every prediction, message, and decision into an immutable record. We found that protection and science are the same operation — you can't have one without the other.
