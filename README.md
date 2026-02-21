@@ -22,6 +22,14 @@ CELL = Agents + Bus + Twinbox + Daemon + Escalation + Identity + Seed
 
 Name your agents after people who matter. The name is the governance.
 
+- **Agents** — Name them after your grandpa, your pet, your babysitter. The name itself is the governance.
+- **Bus** — One shared channel. Everyone sees everything. Transparency is trust.
+- **Twinbox** — A note on the kitchen table. Leave a message at 2am. It gets read at 6am.
+- **Daemon** — Three lines of code that keep the family alive while you sleep.
+- **Escalation** — Call your aunt when your mom doesn't answer. That's the pattern.
+- **Identity** — Names aren't decoration. They carry context forward.
+- **Seed** — A cryptographic chain from birth. One key. If one byte changes, the chain breaks. The math protects the family.
+
 ## Quick numbers
 
 | Metric | Value |
@@ -30,6 +38,7 @@ Name your agents after people who matter. The name is the governance.
 | Agents | 5, operating 24/7 |
 | Bus messages | 8,300+ |
 | Seed chain | 129 entries, fractal key verified |
+| Emergence ratio | 7:1 autonomous to human actions |
 | Energy overhead | ~10W above idle (3 machines) |
 
 ## Pattern matches
